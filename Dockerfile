@@ -1,6 +1,6 @@
 FROM python:3.9-slim-buster
-MAINTAINER <alik@robarts.ca>
+MAINTAINER <ali.khan@uwo.ca>
 
 COPY . .
 
-RUN pip install .
+RUN pip install --no-cache-dir .
