@@ -1,3 +1,3 @@
-# pythondeps-snakedwi
+# pythondeps-dgcnn
 
-Builds container for python-based rules in https://github.com/akhanf/snakedwi
+Builds container for python-based rules in https://github.com/akhanf/dgcnn-voxelwise-smk
